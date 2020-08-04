@@ -64,9 +64,8 @@
 ---
 
 <img align="left" alt="Ashley's Github Stats" src="https://github-readme-stats.vercel.app/api?username=diqing-SHU&show_icons=true&hide_border=true&count_private=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diqing-SHU)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://codeSTACKr.com
+[website]: https://diqing-shu.github.io
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [bilibili]: https://youtube.com/codeSTACKr
