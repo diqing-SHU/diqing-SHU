@@ -49,8 +49,8 @@
 
 [website]: https://diqing-shu.github.io
 [leetcodeProject]: https://github.com/diqing-SHU/leetcode-practice
-[youtube]: https://youtube.com/UCBbOjBdT5u5FF7mEwiW9Rng
-[bilibili]: https://youtube.com/257250
+[youtube]: https://www.youtube.com/channel/UCHyWNJwwADi05QZXEzN8Ptg
+[bilibili]: https://space.bilibili.com/257250
 [instagram]: https://instagram.com/ashleydna
 [linkedin]: https://linkedin.com/in/diqing-shu-741318101
 [zhihu]: https://www.zhihu.com/people/hadouken-54
