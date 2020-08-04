@@ -11,9 +11,12 @@
 
 [<img align="left" alt="diqing-SHU" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="diqing-SHU | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="diqing-SHU | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="diqing-SHU | Bilibili" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bilibili.svg" />][bilibili]
 [<img align="left" alt="diqing-SHU | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="diqing-SHU | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="diqing-SHU | Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />][zhihu]
+[<img align="left" alt="diqing-SHU | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+
 
 <br />
 <br />
@@ -44,11 +47,12 @@
 
 [website]: https://diqing-shu.github.io
 [leetcodeProject]: https://github.com/diqing-SHU/leetcode-practice
-[twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/UCBbOjBdT5u5FF7mEwiW9Rng
 [bilibili]: https://youtube.com/257250
 [instagram]: https://instagram.com/ashleydna
 [linkedin]: https://linkedin.com/in/diqing-shu-741318101
+[zhihu]: https://www.zhihu.com/people/hadouken-54
+[stackoverflow]: https://stackexchange.com/users/14619326/ashely-shu
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
