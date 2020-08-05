@@ -25,6 +25,7 @@
 
 ### 🙋 Latest Stackoverflow Posts
 <!-- STACKOVERFLOW:START -->
+- [Comment by Ashely Shu on Call Firebase HTTPS callable cloud functions in React](https://stackoverflow.com/questions/63252506/call-firebase-https-callable-cloud-functions-in-react/63252771#63252771)
 - [Call Firebase HTTPS callable cloud functions in React](https://stackoverflow.com/questions/63252506/call-firebase-https-callable-cloud-functions-in-react)
 - [Answer by Ashely Shu for mac-thinkphp controller is not exist](https://stackoverflow.com/questions/50672374/mac-thinkphp-controller-is-not-exist/52992772#52992772)
 <!-- STACKOVERFLOW:END -->
