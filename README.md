@@ -35,6 +35,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【BAKA菌的深夜恐怖之旅】《失忆症：猪猡的机器》油灯换手电，感觉没有一代恐怖了呀【1】](https://www.youtube.com/watch?v=Sf0eR4w0UU0)
 <!-- YOUTUBE:END -->
 
 ---
