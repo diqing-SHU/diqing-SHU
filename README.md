@@ -3,8 +3,8 @@
 ## I'm a Developer, Gamer, Learner, and Teacher!
 - 🔭 I’m currently working on a [Leetcode Walkthrough][leetcodeProject]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 💻 I’m looking to put up more contents with programming
+- 🥅 2021 Goals: Create a Dropbox chooser/embedder npm package
 - ⚡ I am also a hardcore gamer 🕹️
 
 ### Connect with me:
