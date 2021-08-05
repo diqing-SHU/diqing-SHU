@@ -1,4 +1,4 @@
-### Hi there, I'm Ashley - aka [diqing-SHU][website] 👋
+### Hi there, I'm D - aka [diqing-SHU][website] 👋
 
 ## I'm a Developer, Gamer, Learner, and Teacher!
 - 🔭 I’m currently working on a [Leetcode Walkthrough][leetcodeProject]!
