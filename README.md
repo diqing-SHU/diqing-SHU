@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a [Leetcode Walkthrough][leetcodeProject]!
 - 🌱 I’m currently learning everything 🤣
 - 💻 I’m looking to put up more contents with programming
-- 🥅 2021 Goals: Create a Dropbox chooser/embedder npm package
+- 🥅 2022 Goals: Master GoLang
 - ⚡ I am also a hardcore gamer 🕹️
 
 ### Connect with me:
